@@ -12,6 +12,6 @@ Tema: Arquitectura de sistemas de Bases de Datos
 - [Caso de estudio: ](FlujoDeDatos.pdf)
 - [HackerRank: ](hackerrank.png)
 - :file_folder: _Tareas 3er parcial_:
-- [CASO 1: ]
+- CASO 1:
 - [AUDIO: ](Caso1.mp3)
 - [Documento: ](Caso1.PDF)
