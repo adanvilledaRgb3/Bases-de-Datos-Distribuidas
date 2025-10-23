@@ -10,3 +10,5 @@ Tema: Arquitectura de sistemas de Bases de Datos
 - [FLOTILLA BASE DE DATOS: ](flotillasql.txt)
 - [Caso de estudio: ](FlujoDeDatos.pdf)
 - [HackerRank: ](hackerrank.png)
+- [CASO 1: ]
+- [AUDIO: ](Caso1.mp3)
