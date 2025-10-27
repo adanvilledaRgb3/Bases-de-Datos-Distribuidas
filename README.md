@@ -15,3 +15,4 @@ Tema: Arquitectura de sistemas de Bases de Datos
 - CASO 1:
 - [AUDIO: ](Caso1.mp3)
 - [Documento: ](Caso1.PDF)
+- [Ejercicio 1: ](Ejercicio1.md)
