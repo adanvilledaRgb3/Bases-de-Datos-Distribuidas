@@ -17,4 +17,4 @@ Tema: Arquitectura de sistemas de Bases de Datos
 - [Documento: ](Caso1.PDF)
 - [Ejercicio 1: ](Ejercicio1.md)
 - [SQL Fragmentos: ](SQL_Fragmentos.pdf)
-- [XPOCET: ](XPOCET.pdf)
+- [XPOCET: ](XPOCET.PDF)
