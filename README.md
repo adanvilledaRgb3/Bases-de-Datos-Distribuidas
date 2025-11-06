@@ -16,3 +16,4 @@ Tema: Arquitectura de sistemas de Bases de Datos
 - [AUDIO: ](Caso1.mp3)
 - [Documento: ](Caso1.PDF)
 - [Ejercicio 1: ](Ejercicio1.md)
+- [SQL Fragmentos: ](SQL_Fragmentos.pdf)
