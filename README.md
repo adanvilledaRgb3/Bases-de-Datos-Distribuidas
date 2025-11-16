@@ -18,4 +18,4 @@ Tema: Arquitectura de sistemas de Bases de Datos
 - [Ejercicio 1: ](Ejercicio1.md)
 - [SQL Fragmentos: ](SQL_Fragmentos.pdf)
 - [XPOCET: ](XPOCET.PDF)
-- [Proyecto: ](franky.PDF)
+- [Proyecto: ](franky.pdf)
